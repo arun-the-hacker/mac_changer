@@ -18,8 +18,7 @@ MAC Changer is a Python script for changing MAC addresses of network interfaces 
 
 1. Clone the repository:
 
-```bash
-sudo git clone https://github.com/your_username/macchanger.git
+sudo https://github.com/arun-the-hacker/mac_changer.git
 cd macchanger
 
 ## Run the script:
